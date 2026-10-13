@@ -15,6 +15,10 @@ Our task was to identify which product categories are most vulnerable to disrupt
 
 I handled the data cleaning in Excel and built the Tableau dashboard visualizations. Together with my teammates, I focused on research, the written analysis and the presentation.
 
+## Presentation
+[Our final presentation to the judges (PDF)](BC_Hydro_Team9_Presentation.pdf)
+**Numbers and figures came from modified data for the hackathon, not real BC Hydro's data.**
+
 ## Data
 
 The organizers provided:
