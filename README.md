@@ -36,7 +36,7 @@ The organizers provided:
 
 ![Average Lead Time by Category](images/lead_time.png)
 *How long each type of equipment takes to arrive after ordering. Colours show the category's risk tolerance*
-![Lead Time vs. Days of Supply](lead_vs_supply.png)
+![Lead Time vs. Days of Supply](images/lead_vs_supply.png)
 *Each dot is a category. Dots **below the diagonal** have less stock (in days) than the time it takes to restock. The red dot at about 424 days of lead time is power transformers.*
 
 ## Key findings
