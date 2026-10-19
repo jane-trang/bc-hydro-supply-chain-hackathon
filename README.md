@@ -25,7 +25,7 @@ The organizers provided:
 - **BC Hydro internal data** (modified for confidentiality): a list of about 3,200 vendors, a sample of 291 vendor-item records with lead times and stock levels, and annual spend and risk tolerance by category.
 - **Public data:** WTO tariff rates and import values by product code, and the World Bank's Logistics Performance Index.
 
-> The case materials and BC Hydro's data were provided for the hackathon only and can't be shared, so this repository contains my write-up and dashboard screenshots, not the data.
+> The case materials and BC Hydro's data were provided for the hackathon only and can't be shared, so this repository contains my write-up and chart screenshots, not the data.
 
 ## What I did
 
