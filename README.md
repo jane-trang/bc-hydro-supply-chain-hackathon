@@ -42,7 +42,7 @@ The organizers provided:
 ## Key findings
 
 1. **The biggest equipment takes the longest to replace.** Major generation powerhouse equipment takes about 966 days on average to arrive, switchgear about 860, battery energy storage about 640, and power transformers about 424. A disruption to these categories would last years, not weeks.
-2.**U.S. dependence is concentrated in a few categories.** Our team found that meters and protection & control equipment came entirely from U.S. suppliers in the sample, and about half of distribution transformer suppliers were American. (Looking back, meters and protection & control each had only one supplier in the sample, so this is a warning sign rather than a firm conclusion.)
+2. **U.S. dependence is concentrated in a few categories.** Our team found that meters and protection & control equipment came entirely from U.S. suppliers in the sample, and about half of distribution transformer suppliers were American. (Looking back, meters and protection & control each had only one supplier in the sample, so this is a warning sign rather than a firm conclusion.)
 
 ## Our recommendations
 
